@@ -1,7 +1,11 @@
 # Competitor Sales Analysis
 
 This project covers various aspects of Power BI, including data transformation, creating insightful visualizations, and using advanced features to deliver a **data-driven story**.
-![image](https://github.com/user-attachments/assets/64cfeb3c-d45d-49c4-a837-01496fbb706c)
+![image](https://github.com/user-attachments/assets/30cdd51d-8d52-420a-b278-000bd530fdfb)
+
+
+
+
 Next Page
 
 ![image](https://github.com/user-attachments/assets/5b2ef8a8-fb3a-4f63-94bc-2dc7aacf4b3f)
